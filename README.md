@@ -20,8 +20,9 @@ Este es un proyecto en **React** que muestra los personajes e infectados del uni
    ```bash
    git clone https://github.com/tu-usuario/the-last-of-us-react.git
 2. Navega al directorio del proyecto:
+
   cd the-last-of-us-react
-3. Instala las dependencias
+4. Instala las dependencias: 
   npm install
-4. Inicia la aplicación:
-   
+5. Inicia la aplicación: 
+npm start
