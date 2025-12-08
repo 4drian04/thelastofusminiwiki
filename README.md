@@ -1,16 +1,27 @@
-# React + Vite
+# The Last of Us - React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto en **React** que muestra los personajes e infectados del universo de *The Last of Us*. Los usuarios pueden explorar una lista de personajes principales, secundarios y los distintos tipos de infectados. Cada entrada incluye una breve descripción, imagen y estado del personaje o infectado.
 
-Currently, two official plugins are available:
+## Funcionalidades
+- Visualización de personajes y infectados con su respectiva descripción.
+- Imágenes de los personajes e infectados.
+- Estado actual de los personajes (si están vivos o no).
+- Interfaz interactiva en React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías Utilizadas
+- **React**: Para la creación de componentes y el manejo del estado.
+- **CSS**: Para el diseño y los estilos visuales del proyecto.
+- **JSON**: Para almacenar los datos de personajes e infectados.
 
-## React Compiler
+## Instalación
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clona este repositorio:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+   ```bash
+   git clone https://github.com/tu-usuario/the-last-of-us-react.git
+2. Navega al directorio del proyecto:
+  cd the-last-of-us-react
+3. Instala las dependencias
+  npm install
+4. Inicia la aplicación:
+   
