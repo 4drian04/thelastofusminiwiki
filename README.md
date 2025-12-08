@@ -36,4 +36,4 @@ Este es un proyecto en **React** que muestra los personajes e infectados del uni
    npm start
 
 
-## Se puede ver el proyecto en el apartado "Deployments" (o accediendo a este <a href="https://4drian04.github.io/thelastofusminiwiki/" target="_blank" rel="noopener noreferrer">link</a>)
+## Se puede ver el proyecto en el apartado "Deployments" (o accediendo a este <a href="https://4drian04.github.io/thelastofusminiwiki/">link</a>)
