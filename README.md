@@ -34,3 +34,6 @@ Este es un proyecto en **React** que muestra los personajes e infectados del uni
 
    ```bash
    npm start
+
+
+## Se puede ver el proyecto en el apartado "Deployments"
