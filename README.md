@@ -23,12 +23,12 @@ Este es un proyecto en **React** que muestra los personajes e infectados del uni
 2. Navega al directorio del proyecto:
 
    ```bash
-  cd the-last-of-us-react
+   cd the-last-of-us-react
   
 4. Instala las dependencias: 
 
    ```bash
-  npm install
+   npm install
   
 5. Inicia la aplicación:
 
