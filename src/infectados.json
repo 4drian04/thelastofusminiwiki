@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "Corredores",
+        "description": "Los Corredores son infectados en la etapa más temprana del virus. Su cuerpo aún está relativamente intacto, pero están completamente fuera de control. Son extremadamente agresivos y atacan a cualquier ser humano en su camino.",
+        "imagen": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/2020/06/runner.jpg"
+    },
+    {
+        "nombre": "Chasqueadores",
+        "description": "Los Chasqueadores son infectados en una etapa avanzada de la infección, donde el hongo Cordyceps ha crecido tanto que ha deformado su rostro, dejándolos ciegos. Se guían por la ecolocalización, emitiendo 'clics' a frecuencias altas para detectar a sus víctimas.",
+        "imagen": "https://live.staticflickr.com/65535/52645372643_b6621036f2_h.jpg"
+    },
+    {
+        "nombre": "Hinchados",
+        "description": "Los Hinchados son una de las fases más avanzadas de la infección. Su cuerpo se ha hinchado debido a la acumulación de esporas y su piel está extremadamente gruesa y dura. Tienen una gran resistencia a los ataques y lanzan esporas tóxicas que pueden causar daño.",
+        "imagen": "https://pm1.aminoapps.com/7684/634b513299d142584296758c47e48a14bd21917br1-258-423v2_00.jpg"
+    },
+    {
+        "nombre": "Tambaleantes",
+        "description": "Introducidos en *The Last of Us Part II*, los Tambaleantes son infectados que han alcanzado una etapa avanzada de la infección. Aunque no tienen la misma resistencia que los Bloaters, son muy peligrosos debido a su capacidad para liberar una nube de ácido corrosivo cuando se acercan a sus víctimas.",
+        "imagen": "https://thelastofus.es/wp-content/uploads/2020/03/Bloater.png"
+    },
+    {
+        "nombre": "Acechadores",
+        "description": "Los Acechadores son infectados en una etapa intermedia, entre Corredor y Chasqueador. A menudo se esconden en las sombras y se mueven de manera sigilosa, esperando a emboscar a sus víctimas. Son mucho más difíciles de detectar que los Runners.",
+        "imagen": "https://www.orroreaprimavista.it/wp-content/uploads/2023/02/stalker-the-last-of-us-copertina.jpg"
+    },
+    {
+        "nombre": "The Rat King",
+        "description": "Una de las criaturas más aterradoras de *The Last of Us Part II*. Es una combinación de varios infectados que han quedado fusionados entre sí debido al crecimiento masivo del hongo. El Rat King tiene varios tentáculos y una enorme fuerza, siendo una de las batallas más desafiantes del juego.",
+        "imagen": "https://static.wikia.nocookie.net/thelastofus/images/d/dc/Rat_King_model.png"
+    }
+]

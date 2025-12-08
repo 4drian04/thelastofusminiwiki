@@ -1,0 +1,252 @@
+[
+    {
+        "name": "Joel Miller",
+        "age": 56,
+        "role": "Protagonista",
+        "image": "https://i.pinimg.com/originals/08/0c/d0/080cd026ce8cd30f68acfa086ebde7fb.jpg",
+        "description": "Contrabandista endurecido tras la pandemia, encargado de escoltar a Ellie para buscar una posible vacuna. En la segunda parte, recibe las consecuencias de las acciones realizadas en la primera parte",
+        "status": "Muere",
+        "franchise": "The Last of Us",
+        "relations": ["Hermano de Tommy", "Padre de Sarah"]
+    },
+    {
+        "name": "Sarah Miller",
+        "age": 12,
+        "role": "Secundaria (flashback)",
+        "image": "https://i.pinimg.com/736x/4f/ff/8c/4fff8cb06d5063e3e356e18ff19250a2.jpg",
+        "description": "Hija de Joel; su trágica muerte marca el trauma de Joel al inicio del brote. Descansa en paz, Sarah",
+        "status": "Muere",
+        "franchise": "The Last of Us",
+        "relations": ["Hija de Joel"]
+    },
+    {
+        "name": "Ellie Williams",
+        "age": 19,
+        "role": "Protagonista",
+        "image": "https://i.pinimg.com/736x/df/6a/44/df6a44914a7e1b8414f8feaf4b9d01b7.jpg",
+        "description": "Joven inmune al hongo, su inmunidad podría ser clave para una cura. En la primera parte atraviesa toda una aventura con Joel para ir al hospital de los Luciernagas. En la segunda parte va a por Abby para vengarse de lo que le hizo a Joel",
+        "status": "Vive",
+        "franchise": "The Last of Us",
+        "relations": ["Amiga de Riley"]
+    },
+    {
+        "name": "Tess",
+        "age": 51,
+        "role": "Aliada / Secundaria",
+        "image": "https://pbs.twimg.com/media/En88YEbXMAIhgbn.png",
+        "description": "Socía de Joel en el mercado negro; su determinación impulsa el inicio de la historia.",
+        "status": "Muere",
+        "franchise": "The Last of Us",
+        "relations": ["Compañera de Joel"]
+    },
+    {
+        "name": "Tommy Miller",
+        "age": 51,
+        "role": "Aliado / Secundario",
+        "image": "https://i.pinimg.com/736x/16/99/13/16991391f67eab288babc91d3da531ca.jpg",
+        "description": "Hermano de Joel, exsoldado, busca reconstruir una vida en comunidad tras el brote.",
+        "status": "Vive",
+        "franchise": "The Last of Us",
+        "relations": ["Hermano de Joel"]
+    },
+    {
+        "name": "Bill",
+        "age": 40,
+        "role": "Aliado / Secundario",
+        "image": "https://i.redd.it/msbdk1jf4rqf1.jpeg",
+        "description": "Superviviente solitario, experto en trampas y autosuficiencia; ayuda a Joel y Ellie.",
+        "status": "Muere",
+        "franchise": "The Last of Us",
+        "relations": ["Compañero de Frank"]
+    },
+    {
+        "name": "Frank",
+        "age": 55,
+        "role": "Secundario",
+        "image": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/shape/cover/sport/94ea9228afd3a249f35e036582d4e58c6f83619932654e8fce1032a80d16444a.jpg",
+        "description": "Compañero de Bill; su historia da contexto al mundo post-apocalíptico.",
+        "status": "Muere",
+        "franchise": "The Last of Us",
+        "relations": ["Compañero de Bill"]
+    },
+    {
+        "name": "Henry",
+        "age": 25,
+        "role": "Secundario",
+        "image": "https://64.media.tumblr.com/e22ecb7aa300794538fc930cedc4841e/tumblr_p3guptIx2r1qi4j1oo1_1280.png",
+        "description": "Superviviente que viaja con su hermano Sam buscando refugio.",
+        "status": "Muere",
+        "franchise": "The Last of Us",
+        "relations": ["Hermano de Sam"]
+    },
+    {
+        "name": "Sam",
+        "age": 13,
+        "role": "Secundario",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/sam_part_i.png",
+        "description": "Hermano de Henry, viaja con él protegiéndose en un mundo peligroso.",
+        "status": "Muere",
+        "franchise": "The Last of Us",
+        "relations": ["Hermano de Henry"]
+    },
+    {
+        "name": "Marlene",
+        "age": 45,
+        "role": "Antagonista / Líder",
+        "image": "https://i.pinimg.com/736x/c7/22/5b/c7225bf19bbf99ccc554b2cda37632a0.jpg",
+        "description": "Líder de los Luciérnagas, responsable de decisiones críticas sobre Ellie.",
+        "status": "Muere",
+        "franchise": "The Last of Us",
+        "relations": ["Líder de los Luciérnagas"]
+    },
+    {
+        "name": "Riley Abel",
+        "age": 15,
+        "role": "Secundaria",
+        "image": "https://pm1.aminoapps.com/6306/527e86a8adf90872a6ee3c84274e9de112878a98_00.jpg",
+        "description": "Amiga de Ellie; su historia da contexto emocional al pasado de la protagonista.",
+        "status": "Muere",
+        "franchise": "The Last of Us: Left Behind",
+        "relations": ["Amiga de Ellie"]
+    },
+    {
+        "name": "Dina",
+        "age": 21,
+        "role": "Secundaria",
+        "image": "https://i.pinimg.com/736x/9f/35/19/9f35190c44611d4bfbed3c0d660c039a.jpg",
+        "description": "Sobreviviente joven, cercana a Ellie en la segunda parte de la saga, viviendo toda una aventura.",
+        "status": "Vive",
+        "franchise": "The Last of Us Part II",
+        "relations": ["Pareja de Ellie"]
+    },
+    {
+        "name": "Jesse",
+        "age": 28,
+        "role": "Secundario",
+        "image": "https://assetsio.gnwcdn.com/jesse.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+        "description": "Jesse es un sobreviviente y un miembro del grupo de los WLF. Es un hombre leal y protector, conocido por su relación con Dina.",
+        "status": "Muere",
+        "franchise": "The Last of Us Part II",
+        "relations": ["Ex pareja de Dina", "Amigo cercano de Ellie"]
+    },
+    {
+        "name": "Abby Anderson",
+        "age": 20,
+        "role": "Protagonista secundaria / Antagonista",
+        "image": "https://pm1.aminoapps.com/7779/c681826a605d42a9436d94c13d912fc155caca7fr1-736-1002v2_hq.jpg",
+        "description": "Soldado endurecida por la guerra, su historia explora venganza y moral.",
+        "status": "Vive",
+        "franchise": "The Last of Us Part II",
+        "relations": ["Amiga de Manny", "Amiga de Owen"]
+    },
+    {
+        "name": "Jordan",
+        "age": 25,
+        "role": "Secundario",
+        "image": "https://static.wikia.nocookie.net/villains/images/4/41/Jordan-TLOU.png",
+        "description": "Jordan es un miembro de los WLF que juega un papel secundario en *The Last of Us Part II*. Aparece brevemente en las escenas con Abby.",
+        "status": "Muere",
+        "franchise": "The Last of Us Part II",
+        "relations": ["Amigo de Abby", "Compañero de los WLF"]
+    },
+    {
+        "name": "Owen",
+        "age": 25,
+        "role": "Secundario",
+        "image": "https://pbs.twimg.com/media/EmVaGufW8AAv3pO.png",
+        "description": "Amigo de Abby, con conflictos internos sobre la guerra y la lealtad al grupo.",
+        "status": "Muere",
+        "franchise": "The Last of Us Part II",
+        "relations": ["Amigo de Abby"]
+    },
+    {
+        "name": "Mel",
+        "age": 25,
+        "role": "Secundario",
+        "image": "https://pbs.twimg.com/media/F3NqqCKa0AAvxIc.jpg",
+        "description": "Ella era un ex miembro de las luciérnagas y miembro del Frente de Liberación de Washington. El personaje es interpretado por Ashly Burch.",
+        "status": "Muerta",
+        "franchise": "The Last of Us Part II",
+        "relations": []
+    },
+    {
+        "name": "Manny",
+        "age": 25,
+        "role": "Secundario",
+        "image": "https://i.pinimg.com/736x/bd/eb/d1/bdebd109f19a77c7dfe4e8c55a88aaf5.jpg",
+        "description": "Compañero de Abby en la milicia, leal al grupo.",
+        "status": "Muere",
+        "franchise": "The Last of Us Part II",
+        "relations": ["Amigo de Abby"]
+    },
+    {
+        "name": "Lev",
+        "age": 16,
+        "role": "Secundario",
+        "image": "https://i.pinimg.com/736x/07/d6/e2/07d6e28f3cbddba85203338810a95ee9.jpg",
+        "description": "Personaje transgénero que se une a Abby, buscando escapar de su secta y sobrevivir.",
+        "status": "Vive",
+        "franchise": "The Last of Us Part II",
+        "relations": ["Hermano de Yara", "Aliado de Abby"]
+    },
+    {
+        "name": "Yara",
+        "age": 18,
+        "role": "Secundaria",
+        "image": "https://i.pinimg.com/736x/18/94/9c/18949c7dff39a30c5e5571fc578d3d3b.jpg",
+        "description": "Hermana de Lev, muere defendiendo a su hermano.",
+        "status": "Muere",
+        "franchise": "The Last of Us Part II",
+        "relations": ["Hermana de Lev"]
+    },
+    {
+        "name": "Isaac",
+        "age": 55,
+        "role": "Antagonista",
+        "image": "https://i.redd.it/fgsjqwogogab1.jpg",
+        "description": "Líder de los Serafitas; principal enemigo de Abby y Lev.",
+        "status": "Muere",
+        "franchise": "The Last of Us Part II",
+        "relations": ["Líder de los Serafitas"]
+    },
+    {
+        "name": "Maria",
+        "age": 30,
+        "role": "Secundaria",
+        "image": "https://i.pinimg.com/736x/00/ac/f0/00acf00647a3c1fe8693a15584abe77a.jpg",
+        "description": "Mujer de Tommy, líder de la comunidad de Jackson.",
+        "status": "Vive",
+        "franchise": "The Last of Us Part II",
+        "relations": ["Esposa de Tommy"]
+    },
+    {
+        "name": "David",
+        "age": 48,
+        "role": "Antagonista",
+        "image": "https://i.redd.it/kwuazavmmc1e1.jpeg",
+        "description": "Líder de un grupo de caníbales; enemigo de Ellie en la primera parte.",
+        "status": "Muere",
+        "franchise": "The Last of Us",
+        "relations": []
+    },
+    {
+        "name": "James",
+        "age": 47,
+        "role": "Secundario",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/3/2023/03/troy-baker-ed06fbc.jpg",
+        "description": "Compañero de David en el grupo de caníbales; muere enfrentando a Ellie.",
+        "status": "Muere",
+        "franchise": "The Last of Us",
+        "relations": ["Compañero de David"]
+    },
+    {
+        "name": "Jerry",
+        "age": 48,
+        "image": "https://i.redd.it/qy69q6uuhxhb1.jpg",
+        "role": "Secundario",
+        "description": "Residente de Pittsburgh que ayuda o ataca a Joel y Ellie según la situación. Padre de Abby",
+        "status": "Desconocido",
+        "franchise": "The Last of Us",
+        "relations": ["Padre de Abby"]
+    }
+]
