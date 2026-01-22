@@ -1,6 +1,6 @@
 # The Last of Us - React Project
 
-Este es un proyecto en **React** para portfolio personal, no afiliada ni respaldada por Sony o Naughty Dog. Muestra los personajes e infectados del universo de *The Last of Us*. Los usuarios pueden explorar una lista de personajes principales, secundarios y los distintos tipos de infectados. Cada entrada incluye una breve descripción, imagen y estado del personaje o infectado.
+Proyecto desarrollado en **React** como parte de mi **portfolio personal**. Este proyecto **no está afiliado ni respaldado por Sony ni Naughty Dog** y no tiene fines comerciales. Muestra los personajes e infectados del universo de *The Last of Us*. Los usuarios pueden explorar una lista de personajes principales, secundarios y los distintos tipos de infectados. Cada entrada incluye una breve descripción, imagen y estado del personaje o infectado.
 
 ## Funcionalidades
 - Visualización de personajes y infectados con su respectiva descripción.
